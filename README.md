@@ -1,7 +1,7 @@
 # Nonlinear Oscillators
 Python scripts for integrating nonlinear oscillators.
 
-## Duffing Oscilattor
+## Duffing Oscillator
 Second-order eq. with dissipation and cubic spring nonlinearity.
 Cubic-order approximation to nonlinear pendulum. 
 $$\ddot{x} + \delta\dot{x} + kx + bx^3 = \gamma\cos(\omega{t})$$
